@@ -3,7 +3,7 @@ import json
 import os
 import platform
 
-print('Welcome to request hacking. Do you want to continue or not? (y/n)')
+print('Welcome to requesting in python. Do you want to continue or not? (y/n)')
 
 op = input('Option: ')
 
