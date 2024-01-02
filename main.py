@@ -5,9 +5,9 @@ import platform
 
 print('Welcome to requesting in python. Do you want to continue or not? (y/n)')
 
-op = input('Option: ')
+confirm = input('Option(y/n): ')
 
-if op == 'y':
+if confirm == 'y':
     pass
 elif op == 'n':
     exit()
