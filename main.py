@@ -9,7 +9,7 @@ confirm = input('Option(y/n): ')
 
 if confirm == 'y':
     pass
-elif op == 'n':
+elif confirm == 'n':
     exit()
 
 #Have to work on this
